@@ -38,6 +38,8 @@ See the LICENSE file for more info.
 
 ## Comment for visitors
 
-Developer who make this app will coming back after CSAT(11/16) with large scale update
+This is my first SwiftUI project.
 
-thank you for your interest
+Developer who make this app will coming back after CSAT(11/16) with large scale update.
+
+Thank you for your interest.
