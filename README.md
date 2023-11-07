@@ -1,4 +1,4 @@
-# Rws&Blue Scoreboard
+# Red&Blue Scoreboard
 
 [![Releases](https://img.shields.io/badge/release-v1.0.1-blue?style=flat)](https://github.com/kimain050401/green-grass-ios/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-iOS-green.svg?style=flat)](https://github.com/kimain050401/green-grass-ios)
